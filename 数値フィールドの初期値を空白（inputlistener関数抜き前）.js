@@ -19,7 +19,7 @@
                 }
             });
         });
-        setupInputListeners();  // 入力リスナーの設定
+        setupInputListeners();  // 入力リスナーの設定。
     }
 
     function setupInputListeners() {
