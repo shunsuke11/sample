@@ -1,0 +1,4 @@
+.el-input-number__decrease,
+.el-input-number__increase {
+    display: none;
+}
